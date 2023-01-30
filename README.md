@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer vision and bioinformatcis
 - 🌱 I’m currently learning something cool!
 - 
-- 📫 Contact me: DM please.
+- 📫 Contact me: anjunkang22@gmail.com please.
 
 <!---
 Junhang0202/Junhang0202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
