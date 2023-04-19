@@ -16,6 +16,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Junhang0202&theme=dark&layout=compact)
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=Githubhttps://github.com/Junhang0202&right_color=red" />
+
 
 <!---
 Junhang0202/Junhang0202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
