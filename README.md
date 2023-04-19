@@ -7,6 +7,7 @@
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<img src="https://img.shields.io/static/v1?label=Code License&message=Apache 2.0&color=yellowgreen"/>
 <img src="https://img.shields.io/static/v1?label=Research Area&message=NLP,XAI,Bioinformatics&color=red"/>
 <a href="https://www.mdpi.com/2076-3417/12/8/3846"><img src="https://img.shields.io/static/v1?label=Research Article&message=Applied sciences&color=orange"/></a>
 </p>
