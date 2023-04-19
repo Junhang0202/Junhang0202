@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome你好,%20Visitor!;Hello%20Github%20World!&font=Roboto"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,Visitor!%20你好!;Hello%20Github%20World!&font=Roboto"/>
 
 - 👋 Hi, I’m @Junhang0202
 - 👀 I’m interested in computer vision and bioinformatcis
