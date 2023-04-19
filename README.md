@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Junhang0202
 - 👀 I’m interested in computer vision and bioinformatcis
 - 🌱 I’m currently learning something cool!
-- 
 - 📫 Contact me: anjunkang22@gmail.com please.
 
 <p>
@@ -10,6 +9,9 @@
 <a href="https://www.mdpi.com/2076-3417/12/8/3846"><img src="https://img.shields.io/static/v1?label=Research Article&message=Applied sciences&color=orange"/></a>
 
 </p>
+
+
+![](https://github-readme-stats.vercel.app/api?username=Junhang0202&show_icons=true&theme=dark&count_private=true)
 
 
 
