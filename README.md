@@ -4,6 +4,14 @@
 - 
 - 📫 Contact me: anjunkang22@gmail.com please.
 
+<p>
+<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<a href="你的CSDN主页链接"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+</p>
+74
+
+
+
 <!---
 Junhang0202/Junhang0202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
