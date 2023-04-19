@@ -6,7 +6,7 @@
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
-[<img src="https://img.shields.io/static/v1?label=Blog&message=XAI&color=red"/>](https://img.shields.io/badge/Research%20area-Bioinformatics%2CNLP%2CXAI-red)
+<img src="https://img.shields.io/static/v1?label=Research Area&message=NLP,XAI,Bioinformatics&color=red"/>
 </p>
 
 
