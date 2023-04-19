@@ -1,4 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,Visitor!%20你好!;欢迎%20来到%20我的主页!&font=Roboto"/>
+
 - 👋 Hi, I’m @Junhang0202
 - 👀 I’m interested in NLP and bioinformatcis
 - 🌱 I’m currently working as an AI engineer.
